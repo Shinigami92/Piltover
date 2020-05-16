@@ -29,7 +29,7 @@ I do it in my free time and for fun.
 | --------------- | ---------- | -------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1](#1-session) | 2020-05-10 | ~3h      | Initiate the project<br>Create greybox pivot building                           | [166990a..6f14db4](https://github.com/Shinigami92/Piltover/compare/166990a9ef48d74ecc80f17830bc29d335e958df...6f14db48ca0ddcca163350f268a93ddc1ac1a425) |
 | [2](#2-session) | 2020-05-11 | ~6h      | Find camera position<br>Add whitebox buildings in right bottom area             | [6f14db4..97bdc83](https://github.com/Shinigami92/Piltover/compare/6f14db48ca0ddcca163350f268a93ddc1ac1a425...97bdc83280aa4afe107e70d4943684935d8e9c2e) |
-| [3](#3-session) | 2020-05-16 | ~2h      | Improve camera angle and position<br>Add more whitebox buildings, ramp and wall | [97bdc83..master](https://github.com/Shinigami92/Piltover/compare/97bdc83280aa4afe107e70d4943684935d8e9c2e...master)                                    |
+| [3](#3-session) | 2020-05-16 | ~3h      | Improve camera angle and position<br>Add more whitebox buildings, ramp and wall | [97bdc83..master](https://github.com/Shinigami92/Piltover/compare/97bdc83280aa4afe107e70d4943684935d8e9c2e...master)                                    |
 
 ---
 
@@ -125,4 +125,8 @@ So I have to limit myself to scaling and freestyle.
 
 It was also a very good decision to create the backup camera (where I sometimes save the updated viewing angle and position), since when I steer the camera for screenshots and measurements it happens very quickly that I pull the view and therefore rotate the camera.
 
-<img src="https://user-images.githubusercontent.com/7195563/82119340-f4ae6f00-977d-11ea-94e3-6e85dbba8e6e.png" alt="Result Session 3" width="600" />
+<img src="https://user-images.githubusercontent.com/7195563/82119340-f4ae6f00-977d-11ea-94e3-6e85dbba8e6e.png" alt="Result Session 3 (1)" width="600" />
+
+In order to cheat back the lighting of the pivot building, I added some rect lights.
+
+<img src="https://user-images.githubusercontent.com/7195563/82120585-88386d80-9787-11ea-9ac0-8a70abf06458.png" alt="Result Session 3 (2)" width="600" />
