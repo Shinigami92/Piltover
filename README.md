@@ -29,21 +29,51 @@ I do it in my free time and for fun.
 | [1](#1-session) | 2020-05-10 | ~3h      | Initiate the project<br>Create greybox pivot building               | [166990a..6f14db4](https://github.com/Shinigami92/Piltover/compare/166990a9ef48d74ecc80f17830bc29d335e958df...6f14db48ca0ddcca163350f268a93ddc1ac1a425) |
 | [2](#2-session) | 2020-05-11 | ~6h      | Find camera position<br>Add whitebox buildings in right bottom area | [6f14db4..97bdc83](https://github.com/Shinigami92/Piltover/compare/6f14db48ca0ddcca163350f268a93ddc1ac1a425...97bdc83280aa4afe107e70d4943684935d8e9c2e) |
 
+---
+
 ## Reference Image(s)
 
 ![image](https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8b/Piltover_Zaun_LoR_Background.jpg/revision/latest?cb=20191022172320)
 
-Other references that I found:
 
-- https://img.rankedboost.com/wp-content/uploads/2019/10/Piltover-Zaun-Cards-1.png
-- https://i.ytimg.com/vi/ApmZu24gIkM/maxresdefault.jpg
-- https://cdnb.artstation.com/p/assets/images/images/017/227/147/large/patrick-faulwetter-pfaulwetter-piltover-01-as.jpg?1555117676
-- https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2b/Piltover_Zaun_Connected_Cities.jpg/revision/latest/scale-to-width-down/340?cb=20170112210626
-- https://universe-meeps.leagueoflegends.com/v1/assets/images/factions/image-gallery/zaun-collecttechmaturgy.jpg
-- https://i.ytimg.com/vi/yM8o77bAzUw/maxresdefault.jpg
-- https://revelationvr0.files.wordpress.com/2020/04/6796a-1.png
-- https://am-a.akamaihd.net/image?f=https%3A%2F%2Funiverse-meeps.leagueoflegends.com%2Fv1%2Fassets%2Fimages%2Fpiltover_environment_01.jpg&resize=:1200
-- [VISIONS OF PILTOVER](https://universe.leagueoflegends.com/en_US/region/piltover/?mv=image-gallery)
+<details> 
+  <summary>Other references that I found</summary> 
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="2">
+          <img src="https://img.rankedboost.com/wp-content/uploads/2019/10/Piltover-Zaun-Cards-1.png" width="800" />
+        </td>
+      </tr>
+      <tr>
+        <td width="300">
+          <img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2b/Piltover_Zaun_Connected_Cities.jpg/revision/latest/scale-to-width-down/340?cb=20170112210626" />
+        </td>
+        <td width="500">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/017/227/147/large/patrick-faulwetter-pfaulwetter-piltover-01-as.jpg?1555117676" width="500" />
+          <img src="https://universe-meeps.leagueoflegends.com/v1/assets/images/factions/image-gallery/zaun-collecttechmaturgy.jpg" width="500" />
+          <img src="https://i.ytimg.com/vi/yM8o77bAzUw/maxresdefault.jpg" width="500" />
+          <img src="https://i.ytimg.com/vi/ApmZu24gIkM/maxresdefault.jpg" width="500" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img src="https://revelationvr0.files.wordpress.com/2020/04/6796a-1.png" width="800" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img src="https://am-a.akamaihd.net/image?f=https%3A%2F%2Funiverse-meeps.leagueoflegends.com%2Fv1%2Fassets%2Fimages%2Fpiltover_environment_01.jpg&resize=:1200" width="800" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <ul>
+    <li><a href="https://universe.leagueoflegends.com/en_US/region/piltover/?mv=image-gallery">VISIONS OF PILTOVER</a></li>
+  </ul>
+</details>
+
+---
 
 ## Sessions
 
